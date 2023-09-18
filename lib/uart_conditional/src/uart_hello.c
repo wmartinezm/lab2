@@ -20,7 +20,7 @@ void echo_uppercase(const struct device *dev)
         #ifndef TESTING_ENV
         uart_poll_out(dev, up);
         #else
-        test_uart_out(byte);
+        test_uart_out(up);
         #endif
     } while(byte != '\n');
 }

@@ -10,8 +10,8 @@
             "includePath": [
                 "D:/Master/FALL_2023/ECE-6960-AES/PlatformIO/lab2/include",
                 "D:/Master/FALL_2023/ECE-6960-AES/PlatformIO/lab2/src",
-                "D:/Master/FALL_2023/ECE-6960-AES/PlatformIO/lab2/lib/uart/include",
-                "D:/Master/FALL_2023/ECE-6960-AES/PlatformIO/lab2/lib/uart/src",
+                "D:/Master/FALL_2023/ECE-6960-AES/PlatformIO/lab2/lib/uart_conditional/include",
+                "D:/Master/FALL_2023/ECE-6960-AES/PlatformIO/lab2/lib/uart_conditional/src",
                 "C:/Users/wlsnm/.platformio/packages/framework-zephyr/include",
                 "D:/Master/FALL_2023/ECE-6960-AES/PlatformIO/lab2/.pio/build/disco_f072rb/zephyr/include/generated",
                 "C:/Users/wlsnm/.platformio/packages/framework-zephyr/soc/arm/st_stm32/stm32f0",
@@ -23,6 +23,9 @@
                 "C:/Users/wlsnm/.platformio/packages/framework-zephyr/_pio/modules/hal/stm32/stm32cube/stm32f0xx/drivers/include",
                 "C:/Users/wlsnm/.platformio/packages/framework-zephyr/_pio/modules/hal/stm32/stm32cube/stm32f0xx/drivers/include/Legacy",
                 "C:/Users/wlsnm/.platformio/packages/framework-zephyr/_pio/modules/hal/stm32/stm32cube/common_ll/include",
+                "D:/Master/FALL_2023/ECE-6960-AES/PlatformIO/lab2/lib/uart_pointer/include",
+                "D:/Master/FALL_2023/ECE-6960-AES/PlatformIO/lab2/lib/uart_pointer/src",
+                "D:/Master/FALL_2023/ECE-6960-AES/PlatformIO/lab2/.pio/libdeps/disco_f072rb/Unity/src",
                 ""
             ],
             "browse": {
@@ -30,8 +33,8 @@
                 "path": [
                     "D:/Master/FALL_2023/ECE-6960-AES/PlatformIO/lab2/include",
                     "D:/Master/FALL_2023/ECE-6960-AES/PlatformIO/lab2/src",
-                    "D:/Master/FALL_2023/ECE-6960-AES/PlatformIO/lab2/lib/uart/include",
-                    "D:/Master/FALL_2023/ECE-6960-AES/PlatformIO/lab2/lib/uart/src",
+                    "D:/Master/FALL_2023/ECE-6960-AES/PlatformIO/lab2/lib/uart_conditional/include",
+                    "D:/Master/FALL_2023/ECE-6960-AES/PlatformIO/lab2/lib/uart_conditional/src",
                     "C:/Users/wlsnm/.platformio/packages/framework-zephyr/include",
                     "D:/Master/FALL_2023/ECE-6960-AES/PlatformIO/lab2/.pio/build/disco_f072rb/zephyr/include/generated",
                     "C:/Users/wlsnm/.platformio/packages/framework-zephyr/soc/arm/st_stm32/stm32f0",
@@ -43,6 +46,9 @@
                     "C:/Users/wlsnm/.platformio/packages/framework-zephyr/_pio/modules/hal/stm32/stm32cube/stm32f0xx/drivers/include",
                     "C:/Users/wlsnm/.platformio/packages/framework-zephyr/_pio/modules/hal/stm32/stm32cube/stm32f0xx/drivers/include/Legacy",
                     "C:/Users/wlsnm/.platformio/packages/framework-zephyr/_pio/modules/hal/stm32/stm32cube/common_ll/include",
+                    "D:/Master/FALL_2023/ECE-6960-AES/PlatformIO/lab2/lib/uart_pointer/include",
+                    "D:/Master/FALL_2023/ECE-6960-AES/PlatformIO/lab2/lib/uart_pointer/src",
+                    "D:/Master/FALL_2023/ECE-6960-AES/PlatformIO/lab2/.pio/libdeps/disco_f072rb/Unity/src",
                     ""
                 ]
             },

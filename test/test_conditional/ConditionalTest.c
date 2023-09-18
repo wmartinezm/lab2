@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <unity.h>
 #include "uart_hello.h"
 
 char *input_string = "Hello there.\n";
@@ -34,7 +35,7 @@ void tearDown(void) {}
 
 void test_echo_upper(void)
 {
-    echo_uppercase_conditional((struct device *)0);
+    echo_uppercase((struct device *)0);
 }
 
 int main (void)
