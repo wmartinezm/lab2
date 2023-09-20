@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <unity.h>
-#include "uart_hello.h"
+#include "uart_link.h"
 
 char *test_data = "hello there!\n";
 char *current;
