@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "uart_hello.h": "c"
+    },
+    "cmake.sourceDirectory": "D:/Master/FALL_2023/ECE-6960-AES/PlatformIO/lab2/.pio/libdeps/disco_f072rb/Unity"
+}
